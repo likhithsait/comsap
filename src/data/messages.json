@@ -1,0 +1,63 @@
+[
+  {
+    "id": "m1",
+    "groupId": "g1",
+    "senderId": "u2",
+    "content": "Hello team",
+    "isDeleted": false,
+    "createdAt": 1734511200000
+  },
+  {
+    "id": "m2",
+    "groupId": "g1",
+    "senderId": "u1",
+    "content": "Welcome aboard",
+    "isDeleted": false,
+    "createdAt": 1734511201000
+  },
+  {
+    "id": "m3",
+    "groupId": "g1",
+    "senderId": "u2",
+    "content": "Yes",
+    "replyTo": "m1",
+    "isDeleted": false,
+    "createdAt": 1734511202000
+  },
+    {
+    "id": "m4",
+    "groupId": "g2",
+    "senderId": "u2",
+    "content": "Yes",
+    "replyTo": "m1",
+    "isDeleted": false,
+    "createdAt": 1734511202000
+  } ,
+   {
+    "id": "m5",
+    "groupId": "g2",
+    "senderId": "u2",
+    "content": "Yes",
+    "replyTo": "m1",
+    "isDeleted": false,
+    "createdAt": 1734511202000
+  },
+    {
+    "id": "m6",
+    "groupId": "g2",
+    "senderId": "u2",
+    "content": "Yes",
+    "replyTo": "m1",
+    "isDeleted": false,
+    "createdAt": 1734511202000
+  },
+   {
+    "id": "m7",
+    "groupId": "g2",
+    "senderId": "u2",
+    "content": "Yes",
+    "replyTo": "m1",
+    "isDeleted": false,
+    "createdAt": 1734511202000
+  }
+]

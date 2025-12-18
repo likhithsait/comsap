@@ -1,0 +1,30 @@
+[
+  {
+    "id": "g1",
+    "name": "Project Alpha",
+    "members": [
+      {
+        "userId": "u1",
+        "role": "ADMIN"
+      },
+      {
+        "userId": "u2",
+        "role": "USER"
+      }
+      
+    ]
+  },
+  {
+  "id": "g2",
+    "name": "Project Beta",
+    "members": [
+      {
+        "userId": "u1",
+        "role": "ADMIN"
+      },
+      {
+        "userId": "u2",
+        "role": "USER"
+      }]
+  }
+]

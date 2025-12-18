@@ -1,0 +1,14 @@
+{
+  "ADMIN": {
+    "createGroup": true,
+    "addMember": true,
+    "removeMember": true,
+    "sendMessage": true
+  },
+  "USER": {
+    "createGroup": false,
+    "addMember": false,
+    "removeMember": false,
+    "sendMessage": true
+  }
+}
